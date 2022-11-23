@@ -1,24 +1,34 @@
-# README
+## Ruby on Rails Project work
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+- https://www.ruby-lang.org/en/downloads/
 
-* Ruby version
 
-* System dependencies
+- https://rubyinstaller.org/downloads/
 
-* Configuration
 
-* Database creation
+- https://guides.rubyonrails.org/getting_started.html
 
-* Database initialization
 
-* How to run the test suite
+- https://www.jetbrains.com/ruby/
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+- env commands: `ruby`, `sqlite3`, `gem`, `rails`
 
-* ...
+
+#### setup project
+
+
+`rails new <name-project>`
+
+
+`cd <name-project>`
+
+
+- install Gemfile dependencies `bundle install`
+
+
+#### run project
+
+
+- run server `bin/rails server` || `rails server`
