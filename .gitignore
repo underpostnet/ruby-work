@@ -33,3 +33,12 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# api crud
+
+.byebug_history
+.idea
+
+# private
+
+config/database.private.yml
