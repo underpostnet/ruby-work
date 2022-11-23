@@ -1,5 +1,6 @@
 ## Ruby on Rails Project work
 
+
 - https://rubyonrails.org/
 
 
@@ -14,7 +15,11 @@
 
 - https://www.jetbrains.com/ruby/
 
+
 - https://github.com/alexwebgr/phonebook
+
+
+-https://download-directory.github.io/
 
 
 - env commands: `ruby`, `sqlite3`, `gem`, `rails`
